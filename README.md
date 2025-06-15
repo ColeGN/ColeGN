@@ -9,11 +9,6 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🎧 My Vibe
-[![My Spotify Playlist](https://img.shields.io/badge/Spotify-%231DB954.svg?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/37i9dQZF1DXcBWIGoYBM5M)
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
